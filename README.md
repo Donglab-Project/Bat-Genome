@@ -1,2 +1,2 @@
 # Bat-Genome
-Assembly and Annotation of Bat Genomes
+Assembly and annotation of bat genomes
